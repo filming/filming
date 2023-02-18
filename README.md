@@ -2,7 +2,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏫 I am currently a computer science student. 
-- 💻 The programming langauges I'm currently focused on are Python, Go, C++, Java.
+- 💻 The programming langauges I'm currently focused on are: Python, Go, C++, Java.
 - 💙 A few of my favourite hobbies consist of movies, video games and sports.
 - 🌐 View my personal website (coming soon..)
 - 🏆 Types of software that I have used are:
